@@ -38,7 +38,7 @@ function Chat() {
 
   return (
     <>
-      <h1 className="text-white text-6xl text-center p-10">LodaBot</h1>
+      <h1 className="text-white text-6xl text-center p-10">ChatBot</h1>
       <div>
         <textarea
           className="w-full md:w-3/4 lg:w-1/2 h-32 p-4 border rounded-lg  text-center content-center bg-zinc-600 text-white"
